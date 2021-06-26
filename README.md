@@ -28,22 +28,23 @@ Education
 Experience
 ---------
 ##### 📚🔬 RESEARCH
-**Modeling ** (2018-present, Tokyo JP)
+**Assistive intelligence in human-in-the-loop systems** (2019-present, Tokyo JP)
 
-- Modeling and simulation in Python, and PoC in C++.
-- Design and execute high-precision tracking and detection experiments across multiple use-cases.
-- Rapid prototyping on TI Sitara AM572x and NVIDIA Jetson Nano
+- Mitigating constraints in load balancing and scheduling in embedded systems with ensemble models
+- Comparative study of *BatchEnsemble* for multi-object tracking approximations
+- Auto-differentiation with fixed-point scalars (Q-format) in embedded systems
 
-**Founder, Ceable** (2012-2018, Tokyo JP)
+**Psychological safety predictor using LSTM** (NeurIPS2018 BAI workshop, Montreal CA)
 
-- Contract and freelance software development projects for private and public institutions
-- Managed a remote team of freelancers in the east African region
+- Modeling "group etiquette" consensus based on sociologist Dr. Edmondson work on psychological safety
+- Estimating the collective IQ of a group using recurrent network principles
+- Predicting team performance based on a measure of "cohesiveness" of the members
 
-**Manager e-commerce, RwandAir** (2010-2013, Kigali RW)
+**Zebra fish detection and tracking** (2018, Tokyo JP)
 
-- In charge of the entire digital travel management portfolio, including revenue collection and loyalty
-- Designed and deployed the first-ever credit card payment processing in Rwanda
-- Monitored and supervised day-to-day fraud detection and prevention on the ticket booking system
+- Early attempts at multi-object tracking algorithms (unrelated to MOT 3D-ZeF challenge)
+- Part of a color and precision calibration of a prototype ToF camera
+- Experimented with 3D point-cloud technology (hardware and software)
 
 ##### ⚙️🛠 PROFESSIONAL
 **R&D Engineer, CIS Corporation Japan** (2018-present, Tokyo JP)
