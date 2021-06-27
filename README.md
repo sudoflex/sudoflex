@@ -3,7 +3,7 @@
 Robert Nsinga, PhD
 ======
 
-#### AI Data scientist with focus on distributed embedded systems, graph theory and probabilistic modeling
+#### Experienced AI researcher with focus on distributed embedded systems, graph theory and probabilistic modeling
 ###### 📧 [ [sudoflex](http://github.com/sudoflex) ] . [ robert.nsinga@ceable.com ] . 📮 [3-7, Nakajosanjima 770-0813 Japan]
 
 
@@ -21,12 +21,12 @@ Education
 
 **🖥 MOOCs** (completed)
 
-- Deep Learning - Full Track (Coursera, Andrew Ng)
+- Deep Learning Specialization (Coursera, Andrew Ng)
 - **Certified** Kubernetes Administrator (CKA)
 - **Certified** Kubernetes Security Specicalist (CKS)
 
 Experience
----------
+----------
 ##### 📚🔬 RESEARCH
 **Assistive intelligence in human-in-the-loop systems** (2019-present, Tokyo JP)
 
@@ -69,7 +69,7 @@ Experience
 ##### 📝💡 TEACHING
 **Instructor (contract), Future Architects Japan** (2019, Tokyo JP)
 
-- Introductory course on machine learning and deep learning
+- Fundamentals of machine learning and deep learning
 - Practical demos on core algorithms in deep learning
 - Kaggle project for competitive research
 
