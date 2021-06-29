@@ -3,7 +3,7 @@
 Robert Nsinga, PhD
 ======
 
-#### Experienced AI researcher with focus on distributed embedded systems, graph theory and probabilistic modeling
+#### Experienced AI researcher with focus on distributed embedded systems, graph theory, raft consensus and probabilistic modeling
 ###### 📧 [ [sudoflex](http://github.com/sudoflex) ] . [ robert.nsinga@ceable.com ] . 📮 [3-7, Nakajosanjima 770-0813 Japan]
 
 
