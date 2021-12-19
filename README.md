@@ -4,12 +4,12 @@ Robert Nsinga, PhD
 ======
 
 #### Experienced AI researcher with focus on distributed embedded systems, graph theory, raft consensus and probabilistic modeling
-###### 📧 [ [sudoflex](http://github.com/sudoflex) ] . [ robert.nsinga@ceable.com ] . 📮 [3-7, Nakajosanjima 770-0813 Japan]
+##### 📧 [ [sudoflex](http://github.com/sudoflex) ] . [ robert.nsinga@ceable.com ] . 📮 [3-43-3, Minamishowa 770-0944 Japan]
 
 
 Education
 ---------
-**🎓 Ph.D. CS - Advanced Intelligent Systems, Tokushima University** (2019-2022)
+**🎓 Ph.D. CS - Advanced Intelligent Systems** (2019-2022)
 
 - Research on assistive intelligence for edge computing
 - Coursework in engineering, maths, pattern recognition
@@ -56,15 +56,14 @@ Experience
 **Founder, Ceable** (2012-2018, Tokyo JP)
 
 - Distributed Systems for B2B and B2C business models,
-- Contract and freelance software development projects for private and public institutions,
-- Managed a remote team of freelancers in the east African region
+- Contract \& freelance software development projects
 
 **Senior Manager e-commerce, RwandAir** (2010-2013, Kigali RW)
 
-- In charge of end-to-end digital travel management, including revenue collection and loyalty
-- Designed and deployed the first-ever credit card payment processing in Rwanda for the national airline
-- Managed day-to-day fraud detection and prevention on the online ticket booking system
-- Planned and managed inflight entertainment systems for 2 brand new Boeing 737-800NG
+- In charge of digital sales channels, including revenue collection, fraud monitoring and loyalty
+- Project lead on the 1st-ever credit card payment processing in Rwanda
+- Fleet delivery project coordinator for 737-800NG
+- Planned and managed inflight entertainment systems
 
 ##### 📝💡 TEACHING
 **Instructor (contract), Future Architects Japan** (2019, Tokyo JP)
@@ -76,7 +75,7 @@ Experience
 **Mentor (volunteer), Imbuto Foundation Rwanda** (2012-2015, Tokyo JP)
 
 - Establish a relationship of leadership with girls without a parent/leader figure
-- Spent Saturdays with boarding school girls talking about self-confidence, public image
+- Public speaking, self-confidence talks host and facilitator for young girls
 
 **Mentor (volunteer), K-Lab Rwanda** (2012-2015, Tokyo JP)
 
@@ -87,7 +86,6 @@ Leadership
 ---------
 
 - **Kagglers of Rwanda**, Discord community founder/manager of Rwandan competitive data scientists (2019-present)
-- **All.Code.Everything**, YouTube channel turning ideas into code (2020-present)
 - **Imbuto Foundation Mentor**, Share leadership skills with young girls (2012-2015)
 - **K-lab Mentor**, Help new programmers get the basics of modern programming (2013-2014)
 
@@ -97,13 +95,13 @@ Skills
 
 **System Architecting:** Ubuntu, Git, Docker, Kubernetes, Linkerd2, Knative, GCP
 
-**Neural Modeling:** PyTorch, Detectron2, TensorFlow, JAX, Caffe2, TFLite
+**Neural Modeling:** PyTorch, TensorFlow, JAX, Triton
 
 🏆 Honors
 ---------
 - **Taiwan IASTEM Best Paper Award 2019**, Conference on Robotics & Vision Engineering (2019)
-- **ABE/JICA Fellow**, Recipient of a $US 47k Japanese scholarship (2016)
-- **IATA Emergency Response Planning**, IATA/KQ Certified Emergency Response Planner (2013)
+- **ABE/JICA Fellow**
+- **IATA Emergency Response Planning** certified (2013)
 - **Imbuto Foundation Mentor Recognition**, Girls empowerment volunteer recognition (2012)
 - **Boeing Travel Product Manager Certificate**, Boeing Marketing Academy (2011)
 - **IATA Fare Construction**, IATA Fare Construction & SITA Reservations (2010)
