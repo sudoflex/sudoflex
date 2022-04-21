@@ -16,7 +16,8 @@ Education
 
 **Masters in Systems Innovation Engineering, Tokushima University** (2017-2019)
 
-- Departmental Honors and Recognition, 4.7/5.0 GPA
+- Best paper award, Taiwan Industrial Application Conference
+- Departmental Honors and Recognition, 4.2/5.0 GPA
 - Coursework in maths, engineering, image processing, information science
 
 **Online Courses**
