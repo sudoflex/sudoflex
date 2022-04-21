@@ -3,7 +3,7 @@
 Robert Nsinga, PhD
 ==================
 
-#### Experienced in AI researcher with focus on computer vision &amp; distributed embedded systems
+#### Experienced in AI research with focus on computer vision &amp; distributed embedded systems
 ###### contact: [ [sudoflex](http://github.com/sudoflex) ] . [ robert.nsinga@ceable.com ] . [3-43-3, Minamishowa 770-0944 Japan]
 
 
