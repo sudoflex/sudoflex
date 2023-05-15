@@ -4,7 +4,7 @@ Robert Nsinga, PhD
 ==================
 
 #### Experienced in AI research with focus on computer vision &amp; distributed embedded systems
-###### contact: [ [sudoflex](http://github.com/sudoflex) ] . [ robert.nsinga@ceable.com ] . [3-43-3, Minamishowa 770-0944 Japan]
+###### contact: [ [sudoflex](http://github.com/sudoflex) ] . [ robert.nsinga@ceable.com ] . [670-7, Yamazaki, Tokyo (Japan)]
 
 
 Education
@@ -28,7 +28,7 @@ Education
 Experience
 ----------
 ##### RESEARCH
-**Embedded learning** (2019-present, Tokyo JP)
+**Architecture agnostic inference optimization** (2019-present, Tokyo JP)
 
 - Auto-Differentiated Fixed Point Notation on Low-powered Hardware Acceleration
 
@@ -51,7 +51,7 @@ Experience
 - Experimented with 3D point-cloud technology (hardware and software)
 
 ##### PROFESSIONAL
-**R&D Engineer, CIS Corporation Japan** (2018-present, Tokyo JP)
+**Principal Researcher, CIS Corporation Japan** (2018-present, Tokyo JP)
 
 - Modeling and simulation in Python, and PoC in C++.
 - Design and execute high-precision tracking and detection experiments across multiple use-cases.
@@ -97,9 +97,9 @@ Skills
 ------
 **Application Programming:** Python, C++, Java, Go, TypeScript
 
-**System Architecting:** Ubuntu, Git, Docker, Kubernetes, serverless, service-mesh
+**Systems Programming:** Ubuntu, Git, Docker, Kubernetes, serverless, service-mesh
 
-**Neural Modeling:** PyTorch, Triton, TensorFlow, JAX
+**Machine Learning Modeling:** Mojo, PyTorch, TensorFlow, JAX
 
 Honors
 ---------
